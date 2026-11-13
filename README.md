@@ -16,20 +16,29 @@ Hi, I'm Chris! I'm a Front-End & WordPress Developer focused on building clean, 
 ### 💻 Volunteer Experience
 
 **Volunteer Web Developer | [Wevise](https://wevise.org/)** *(2026 – Present)*
-* Collaborated with a remote team to maintain and improve WordPress websites.
-* Worked on website updates, content changes, styling, and responsive design tasks.
-* Used GitHub issues and developer tools to troubleshoot and document website changes.
-* Audited and review CSS styling to help improve consistency across the site.
+
+Working with a remote team on the Wevise WordPress/Elementor site, tracking work through GitHub issues.
+
+**Development & CSS**
+* Built a global button styling system using CSS custom properties and reusable base, size, and color classes, so every button on the site updates from one place.
+* Audited 60+ buttons across 13 pages with browser dev tools to find inconsistencies against the design system.
+* Rebuilt the [Coaching Corner](https://wevise.org/coaching-corner/) page from scratch after its nested layout kept crashing the site, then tested it on desktop, tablet, and mobile.
+
+**Pages & Content**
+* Built 20+ job post landing pages for the [Volunteer page](https://wevise.org/volunteer/) and publish new roles as they open.
+* Updated the CEO, CFO, and Chief of Staff job pages with revised content from HR.
+* Refined the job post titles based on design feedback to make them easier to scan.
+
+**Branding & Maintenance**
+* Updated banner colors sitewide to match the design system's brand color.
+* Updated the site favicon to match current branding.
+* Set up the homepage launch countdown timer.
+* Organized live site assets into a shared Google Drive library using the team's naming convention.
 
 ### 🛠️ Tech Stack
 * **Languages & Core:** HTML5, CSS3, JavaScript, PHP
 * **CMS & Builders:** WordPress, Elementor, Webflow
 * **Tools:** Git, GitHub, Chrome DevTools, Figma
-
- CSS3, JavaScript, PHP
-* **CMS & Builders:** WordPress, Elementor, Webflow
-* **Tools:** Git, GitHub, Chrome DevTools, Figma
-re 👋
 
 <!--
 **chrisstewartstudio/chrisstewartstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
